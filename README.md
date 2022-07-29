@@ -1,5 +1,9 @@
 # slider-shou
 
+bootstrap 5
+
+https://getbootstrap.com/
+
 html>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <!DOCTYPE html>
